@@ -8,7 +8,7 @@ Reference: https://dev.to/dmuraco3/how-to-create-a-local-rag-agent-with-ollama-a
 
 ## My first AI Agent
 
-Used "llama3.1" model along with langchain to create an AI agent that uses some basic python defined functions as tools. 
+Used "llama3.1" model along with langchain to create an AI agent that uses some basic python defined functions as tools. (Refer to first_agent.ipynb)
 
 The response of the agent is not yet optimal. I have noticed some merit in tuning the prompt template to improve the output. Work in Progress... Please let me know if there are any suggestions.
 
